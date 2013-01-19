@@ -1,3 +1,4 @@
+# whatever
 use warnings;
 use diagnostics;
 
